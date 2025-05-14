@@ -1,0 +1,2 @@
+# WELCOME TO S2A LAB'S GITHUB!
+Our current research largely focuses on exploiting advances in mechatronics, e.g., mechanical design, sensing, actuation, computing, and controls, to improve the quality, productivity, cost-effectiveness and environmental sustainability of manufacturing machines and processes.  A key application focus of our research is additive manufacturing (3D printing).  Other application areas include nanopositioning, roll-to-roll manufacturing, machining, and precision metrology. Visit our [website](https://s2a-lab.engin.umich.edu/) to find out more.
